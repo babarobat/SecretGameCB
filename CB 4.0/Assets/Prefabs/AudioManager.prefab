@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1642129679633276}
+  m_IsPrefabParent: 1
+--- !u!1 &1642129679633276
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4574432174478514}
+  - component: {fileID: 114302087427731932}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4574432174478514
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1642129679633276}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114302087427731932
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1642129679633276}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55922347f18a5c342bee068eba1939b2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: Gun_Shoot
+    clip: {fileID: 8300000, guid: 0756d4a7562d18145832a2a9df37145a, type: 3}
+    volume: 1
+    pitch: 1
+    spatialBlend: 0.455
+    source: {fileID: 0}
+    loop: 0
+  - name: Gun_Load
+    clip: {fileID: 8300000, guid: a37768d5187e2504abedd1b0ade1bdaf, type: 3}
+    volume: 0.559
+    pitch: 1
+    spatialBlend: 0
+    source: {fileID: 0}
+    loop: 0
+  - name: Gun_NoBullets
+    clip: {fileID: 8300000, guid: 1d7c1d92a091b014b81116a975b98e73, type: 3}
+    volume: 0.751
+    pitch: 1
+    spatialBlend: 0
+    source: {fileID: 0}
+    loop: 0
+  - name: Theme
+    clip: {fileID: 8300000, guid: 14e3a383e06beda43a750c336bf7469a, type: 3}
+    volume: 0.52
+    pitch: 1
+    spatialBlend: 0
+    source: {fileID: 0}
+    loop: 1
+  - name: Zombie_Move
+    clip: {fileID: 8300000, guid: c0c957ab4f419b945aec49678cafc68d, type: 3}
+    volume: 0.35
+    pitch: 1
+    spatialBlend: 0.93
+    source: {fileID: 0}
+    loop: 0
+  - name: Explosion
+    clip: {fileID: 8300000, guid: a9d6f97459b803a4f8716d2646b3f311, type: 3}
+    volume: 1
+    pitch: 1
+    spatialBlend: 0.414
+    source: {fileID: 0}
+    loop: 0
+  - name: Player_Death
+    clip: {fileID: 8300000, guid: eede9deec116f354f89be4898d413c88, type: 3}
+    volume: 0.635
+    pitch: 1
+    spatialBlend: 0.517
+    source: {fileID: 0}
+    loop: 0
+  - name: Zombie_Rize
+    clip: {fileID: 8300000, guid: 41226604e10f10e4a8a4604cadea4afa, type: 3}
+    volume: 0.316
+    pitch: 1
+    spatialBlend: 0.548
+    source: {fileID: 0}
+    loop: 0
+  - name: Fetil
+    clip: {fileID: 8300000, guid: fe90659d28543094ca8dd3de83f91ff9, type: 3}
+    volume: 0.24
+    pitch: 1
+    spatialBlend: 0.461
+    source: {fileID: 0}
+    loop: 0
+  - name: Die_Theme_1
+    clip: {fileID: 8300000, guid: 5d562ad54cbb5a147b7b325a74430c82, type: 3}
+    volume: 0.466
+    pitch: 1
+    spatialBlend: 0
+    source: {fileID: 0}
+    loop: 0
+  - name: Main_Theme_2
+    clip: {fileID: 8300000, guid: be7bf3613559ee245aea732b61a06b18, type: 3}
+    volume: 0.519
+    pitch: 1
+    spatialBlend: 0
+    source: {fileID: 0}
+    loop: 0

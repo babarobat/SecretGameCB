@@ -1,0 +1,149 @@
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\Assembly-CSharp.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\nunit.framework.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.Advertisements.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.Analytics.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.Graphs.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.HoloLens.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.Networking.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.OSXStandalone.Extensions.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.Purchasing.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.Timeline.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.UI.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.VR.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.WebGL.Extensions.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEngine.Advertisements.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEngine.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEngine.Purchasing.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEngine.UI.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\Unity.Cecil.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\Unity.DataContract.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\ExCSS.Unity.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\Unity.CecilTools.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEngine.xml
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.xml
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEngine.UI.xml
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.UI.xml
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.Networking.xml
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.TestRunner.xml
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\nunit.framework.xml
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.Timeline.xml
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.HoloLens.xml
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.VR.xml
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\obj\Debug\Assembly-CSharp.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.Advertisements.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.Analytics.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.HoloLens.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.Networking.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.Purchasing.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.TestRunner.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.Timeline.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.VR.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.WebGL.Extensions.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.UI.xml
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.Networking.xml
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.TestRunner.xml
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.Timeline.xml
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.HoloLens.xml
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.VR.xml
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\obj\Debug\Assembly-CSharp.dll
+C:\Users\Kotenko\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Cowbot 3.0\Cowbot 3.0\obj\Debug\Assembly-CSharp.pdb
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\TextMeshPro-2017.3-1.0.56-Editor.dll
+D:\YandexDisk\_C#\Обучение\Unity\Cowbot 3.0\Temp\bin\Debug\TextMeshPro-2017.3-1.0.56-Runtime.dll
