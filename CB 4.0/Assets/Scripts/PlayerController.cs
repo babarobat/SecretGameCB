@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using UnityStandardAssets.CrossPlatformInput;
 
 public class PlayerController : MonoBehaviour
 {
@@ -59,10 +60,10 @@ public class PlayerController : MonoBehaviour
         
         if (dead == false)
         {
-            float h = Input.GetAxisRaw("Horizontal");
-            float j = Input.GetAxisRaw("Jump");
+            float h = CrossPlatformInputManager.GetAxisRaw("Horizontal");
             
-            Jump(j);
+            
+            Jump();
             Animating(h);
             Fire();
             DinThrow();
@@ -104,16 +105,16 @@ public class PlayerController : MonoBehaviour
         }
 
     }
-    void Jump(float j)
+    void Jump()
     {
-        if (j > 0 && grounded && player.velocity.y <= 0.1f)
+        if (CrossPlatformInputManager.GetButtonDown("Jump") && grounded && player.velocity.y <= 0.1f)
         {
             player.AddForce(new Vector2(0f, jumpForce));
         }
     }
     void DinThrow()
     {
-        if (Input.GetKeyDown(KeyCode.G))
+        if (CrossPlatformInputManager.GetButtonDown("Granade"))
         {
             if (dinCount >0)
             {
@@ -131,7 +132,7 @@ public class PlayerController : MonoBehaviour
     }
     void Fire()
     {
-        if (Input.GetKeyDown(KeyCode.LeftControl))
+        if (CrossPlatformInputManager.GetButtonDown("Fire"))
         {
             anim.Play("PlayerFire");
             if (bulletsCount > 0)

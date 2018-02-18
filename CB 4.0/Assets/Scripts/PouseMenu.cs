@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityStandardAssets.CrossPlatformInput;
 
 public class PouseMenu : MonoBehaviour {
 
@@ -22,7 +23,7 @@ public class PouseMenu : MonoBehaviour {
 
 	void Update ()
     {
-		if (Input.GetKeyDown(KeyCode.Escape)&&!optionsMenuUI.activeSelf)
+		if (CrossPlatformInputManager.GetButtonDown("Pouse") && !optionsMenuUI.activeSelf)
         {
             if (GameIsPaused)
             {
